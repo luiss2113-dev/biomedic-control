@@ -27,3 +27,8 @@ Pasos:
  7. al finalizar la compilación, ejecutar: firebase emulators:start
 
 Es posible que solicite puertos para la conexión, recomiendo usar por defecto para auth 9099 y para firestore 8080.
+
+
+Generador de colores:
+
+* https://paletton.com/#uid=13n0u0kk1v1abNUfAD9o4rTrEmT
