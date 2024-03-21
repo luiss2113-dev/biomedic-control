@@ -1,6 +1,0 @@
-package com.example.biomedic_control
-
-import io.flutter.embedding.android.FlutterActivity
-
-class MainActivity: FlutterActivity() {
-}
